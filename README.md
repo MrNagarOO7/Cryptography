@@ -1,1 +1,1 @@
-﻿# Practice Of Python For Concept of Class.
+﻿# Practice Of Python with Different Concepts.
